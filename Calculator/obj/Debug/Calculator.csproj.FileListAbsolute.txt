@@ -1,0 +1,8 @@
+c:\users\fier\documents\visual studio 2015\Calculator\Calculator\bin\Debug\Calculator.exe.config
+c:\users\fier\documents\visual studio 2015\Calculator\Calculator\bin\Debug\Calculator.exe
+c:\users\fier\documents\visual studio 2015\Calculator\Calculator\bin\Debug\Calculator.pdb
+c:\users\fier\documents\visual studio 2015\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+c:\users\fier\documents\visual studio 2015\Calculator\Calculator\obj\Debug\Calculator.exe
+c:\users\fier\documents\visual studio 2015\Calculator\Calculator\obj\Debug\Calculator.pdb
+c:\users\fier\documents\visual studio 2015\Calculator\Calculator\bin\Debug\Newtonsoft.Json.dll
+c:\users\fier\documents\visual studio 2015\Calculator\Calculator\bin\Debug\Newtonsoft.Json.xml
